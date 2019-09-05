@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "351847851473",
+    "firebase_url": "https://pruebaautenticacionandro-e3685.firebaseio.com",
+    "project_id": "pruebaautenticacionandro-e3685",
+    "storage_bucket": "pruebaautenticacionandro-e3685.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351847851473:android:b853fd3cc155173d9aacf0",
+        "android_client_info": {
+          "package_name": "com.example.ejemploautenticacionfirebaseyandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351847851473-vj2fj596buavpnlcfrglvlohfdmmpqf5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ejemploautenticacionfirebaseyandroid",
+            "certificate_hash": "bf6fda3b4d30cecd8358eb38dd8bc43c224f86ac"
+          }
+        },
+        {
+          "client_id": "351847851473-2oevqnm2pcumm4o9mkqlgo895ibdmf7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT9xzR-FzyfGa3Zxz3Jn-tj3_DOhD_ogU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351847851473-2oevqnm2pcumm4o9mkqlgo895ibdmf7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
